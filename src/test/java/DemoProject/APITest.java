@@ -6,7 +6,10 @@ public class APITest {
 
 	@Test
 	public void postJira() {
-		System.out.println("Post Jira Defect");
+		System.out.println("Post Jira Defect1");
+		System.out.println("Post Jira Defect2");
+		System.out.println("Post Jira Defect3");
+		System.out.println("Post Jira Defect4");
 
 	}
 
