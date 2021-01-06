@@ -15,7 +15,8 @@ public class APITest {
 
 	@Test
 	public void deleteTwitter() {
-		System.out.println("Delete Twitter API");
+		System.out.println("Delete Twitter API1");
+		System.out.println("Delete Twitter API2");
 
 	}
 
