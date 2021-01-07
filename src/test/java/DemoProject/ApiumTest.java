@@ -15,5 +15,8 @@ public class ApiumTest {
 		System.out.println("Native IOS App");
 
 	}
+	public void NativeAppAndroid2() {
+		System.out.println("Native Android App2");
+	}
 
 }

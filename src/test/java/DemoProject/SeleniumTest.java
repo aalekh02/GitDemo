@@ -15,5 +15,9 @@ public class SeleniumTest {
 		System.out.println("UI Element Automation");
 
 	}
+	public void BrowserAutomation2() {
+		System.out.println("Browser Automation123");
+
+	}
 
 }
