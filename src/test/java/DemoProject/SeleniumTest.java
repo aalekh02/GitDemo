@@ -13,10 +13,12 @@ public class SeleniumTest {
 	@Test
 	public void UIElements() {
 		System.out.println("UI Element Automation");
+		System.out.println("PC Element Automation");
 
 	}
 	public void BrowserAutomation2() {
 		System.out.println("Browser Automation123");
+		System.out.println("Browser Automation456");
 
 	}
 
